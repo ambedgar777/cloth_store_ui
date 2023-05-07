@@ -19,7 +19,7 @@ Users can view the details of each product, including its name, price, and descr
 The app has a shopping cart that allows users to add products and manage their orders. Users can view their cart at any time and remove products if they change their minds.
 
 <h2 style="font-size: 36px;">screenshots</h2>
-![Green Gradient Application Showcase Presentation (2)](https://user-images.githubusercontent.com/49684285/236660112-68547f22-0a3a-48c0-b413-c34b95a305a2.png)
+![Green Gradient Application Showcase Presentation (2)](https://user-images.githubusercontent.com/49684285/236660654-8ccd9410-53e3-46ec-82fd-6a5830ea55db.png)
 
 <h2 style="font-size: 36px;">CONTRIBUTING</h2>
 Contributions to this app are welcome. If you encounter any bugs or have suggestions for new features, please open an issue or submit a pull request.

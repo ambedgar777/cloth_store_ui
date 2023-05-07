@@ -18,7 +18,7 @@ Users can view the details of each product, including its name, price, and descr
 <h2 style="font-size: 36px;">SHOPPING CART</h2>
 The app has a shopping cart that allows users to add products and manage their orders. Users can view their cart at any time and remove products if they change their minds.
 
-<h2 style="font-size: 36px;">screenshots</h2>
+<h2 style="font-size: 36px;">SCREENSHOTS</h2>
 ![Green Gradient Application Showcase Presentation (2)](https://user-images.githubusercontent.com/49684285/236660730-f9fcbfc9-c5e1-484b-8082-4441238afb08.png)
 
 
